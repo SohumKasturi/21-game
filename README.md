@@ -51,22 +51,22 @@ cd blackjack-python
 Demo
 
 -===================-
-Welcome to Blackjack!
+-Welcome to Blackjack!
 -===================-
 1. Play
 2. Show Scoreboard
 3. Quit
-Enter your choice: 1
+-Enter your choice: 1
 
 --- HANDS ---
 
-Your hand:
-King of Hearts
-6 of Spades
-Your hand value: 16
+-Your hand:
+-King of Hearts
+-6 of Spades
+-Your hand value: 16
 
-Dealer's hand:
-4 of Clubs HIDDEN
+-Dealer's hand:
+-4 of Clubs HIDDEN
 
-Hit or Stand? (h/s):
+-Hit or Stand? (h/s):
 
