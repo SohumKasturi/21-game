@@ -48,6 +48,8 @@ cd blackjack-python
 
 ## 📸 Demo
 
+Demo
+
 =====================
  Welcome to Blackjack!
 =====================
