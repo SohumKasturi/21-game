@@ -50,9 +50,9 @@ cd blackjack-python
 
 Demo
 
-=====================
- Welcome to Blackjack!
-=====================
+-===================-
+Welcome to Blackjack!
+-===================-
 1. Play
 2. Show Scoreboard
 3. Quit
