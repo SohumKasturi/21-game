@@ -41,3 +41,30 @@ A simple command-line Blackjack game built in Python! Play against the computer 
 ```bash
 git clone https://github.com/your-username/blackjack-python.git
 cd blackjack-python
+
+```
+
+---
+
+## 📸 Demo
+
+=====================
+ Welcome to Blackjack!
+=====================
+1. Play
+2. Show Scoreboard
+3. Quit
+Enter your choice: 1
+
+--- HANDS ---
+
+Your hand:
+King of Hearts
+6 of Spades
+Your hand value: 16
+
+Dealer's hand:
+4 of Clubs HIDDEN
+--------------------
+Hit or Stand? (h/s):
+
