@@ -67,6 +67,6 @@ Your hand value: 16
 
 Dealer's hand:
 4 of Clubs HIDDEN
---------------------
+
 Hit or Stand? (h/s):
 
